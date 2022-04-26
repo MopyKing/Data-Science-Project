@@ -1,0 +1,7 @@
+1. data acquisition - firstly we gonna need to get our data \ chars \ tables \ information
+	from the website`s API or through crawling and accessing the data we need
+	- then we are going to put each parameter into a list 
+	- once we have few lists ( as many as our columns numbers)
+	  we will then unite all lists into one dictionary (+giving column names) into pd.DataFrame
+
+2. initial data handling - part 1
